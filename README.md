@@ -1,2 +1,2 @@
-# CPS5740_Projcet
+# CPS5740_Project
 Final Project
